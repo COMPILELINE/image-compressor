@@ -1,0 +1,3 @@
+# image-compressor
+
+![](./thumbnail.png)
